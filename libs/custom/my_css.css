@@ -13,8 +13,14 @@ h4 {
 .main-description .fa {
   font-size: 22px;
   margin-top: 5px; }
-.paper {
-  margin-bottom: 20px }
+.with-images {
+  display: flex;
+  /* margin-bottom: 20px */
+}
+
+p {
+  margin-bottom: 5px;
+}
 .paper .title {
   /*text-transform: uppercase; */}
 .paper p {
@@ -77,8 +83,21 @@ h4 {
     margin-top: 5rem; }
 }
 
+.paper-image {
+  display: none;
+}
+
 /* Larger than tablet */
 @media (min-width: 750px) {
+  .paper-image {
+    display: block;
+    padding-right: 20px;
+    width: 25%;
+    /* height: 200px; */
+    /* background: red; */
+    /* float: left; */
+  }
+
   /* Navbar */
   .navbar + .docs-section {
     border-top-width: 0; }

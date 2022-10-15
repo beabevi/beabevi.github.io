@@ -100,23 +100,23 @@
     <nav class="navbar">
       <div class="container">
         <ul class="navbar-list">
-          <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#bio" | prepend: site.baseurl }}>Bio</a></li>
-          <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#publications" | prepend: site.baseurl }}>Publications</a></li>
-          <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#projects" | prepend: site.baseurl }}>Projects</a></li>
-          <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#resume" | prepend: site.baseurl }}>Vita</a></li>
+          <li class="navbar-item"><a class="navbar-link" href={{ "/#bio" | prepend: site.baseurl }}>Bio</a></li>
+          <li class="navbar-item"><a class="navbar-link" href={{ "/#publications" | prepend: site.baseurl }}>Publications</a></li>
+          <!-- <li class="navbar-item"><a class="navbar-link" href={{ "/#projects" | prepend: site.baseurl }}>Projects</a></li> -->
+          <li class="navbar-item"><a class="navbar-link" href={{ "/#resume" | prepend: site.baseurl }}>Experience</a></li>
         </ul>
       </div>
     </nav>
 
     {{ content}}
 
-    <div class="footer">
+    <div class="footer desc">
       <div class="row">
         <div class="four columns">
           {{ site.data.main_info.name }}
         </div>
         <div class="four columns">
-          {{ site.data.main_info.email }}
+          Based on <a href="https://web.stanford.edu/~msaveski/index.html">Martin Saveski</a>'s template.
         </div>
         <div class="four columns">
           <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
@@ -138,10 +138,10 @@
   </div>
 
   <!-- Google Analytics -->
-  {% include google_analytics.html %}
+  <!-- {% include google_analytics.html %} -->
 
   <!-- do not remove -->
-  <span id="62cd7b7da1aff3196fdc26b60e396df9"></span>
+  <!-- <span id="62cd7b7da1aff3196fdc26b60e396df9"></span> -->
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
