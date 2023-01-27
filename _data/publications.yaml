@@ -2,14 +2,14 @@ papers:
 
   - title: "A Generalist Neural Algorithmic Learner"
     authors: "Borja Ibarz, Vitaly Kurin, George Papamakarios, Kyriacos Nikiforou, Mehdi Bennani, Róbert Csordás, Andrew Dudzik, Matko Bošnjak, Alex Vitvitskyi, Yulia Rubanova, Andreea Deac, <b>Beatrice Bevilacqua</b>, Yaroslav Ganin, Charles Blundell, Petar Veličković"
-    venue: "Arxiv"
+    venue: "LoG <b>(Spotlight)</b>"
     paper_pdf: "https://arxiv.org/pdf/2209.11142.pdf"
     selected: y
     image: /assets/publications/processor.png
 
   - title: "Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries"
     authors: "Fabrizio Frasca<sup>‡</sup>, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Michael M. Bronstein, Haggai Maron"
-    venue: "NeurIPS 2022"
+    venue: "NeurIPS 2022 <b>(Oral)</b>"
     paper_pdf: "https://arxiv.org/pdf/2206.11140.pdf"
     code: "https://github.com/beabevi/SUN"
     selected: y
