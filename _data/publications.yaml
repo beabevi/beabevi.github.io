@@ -11,11 +11,13 @@ papers:
   - title: "A Multi-Task Perspective for Link Prediction with New Relation Types and Nodes"
     authors: "Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro"
     venue: "NeurIPS GLFrontiers 2023"
+    paper_pdf: "https://openreview.net/pdf?id=KIISfvU806"
     selected: n
 
   - title: "Subgraphormer: Subgraph GNNs meet Graph Transformers"
     authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
     venue: "NeurIPS GLFrontiers 2023"
+    paper_pdf: "https://openreview.net/pdf?id=e8ba9Hu1mM"
     selected: n
 
 
@@ -30,11 +32,13 @@ papers:
   - title: "Graph Positional Encoding via Random Feature Propagation"
     authors: "Moshe Eliasof, Fabrizio Frasca, <b>Beatrice Bevilacqua</b>, Eran Treister, Gal Chechik, Haggai Maron"
     venue: "ICML 2023"
+    paper_pdf: "https://arxiv.org/pdf/2303.02918.pdf"
     selected: n
 
   - title: "Causal Lifting and Link Prediction"
     authors: "Leonardo Cotta, <b>Beatrice Bevilacqua</b>, Nesreen Ahmed, Bruno Ribeiro"
     venue: "The Royal Society A"
+    paper_pdf: "https://royalsocietypublishing.org/doi/epdf/10.1098/rspa.2023.0121"
     selected: n
 
   - title: "A Generalist Neural Algorithmic Learner"
