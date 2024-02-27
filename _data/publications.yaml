@@ -1,10 +1,47 @@
 papers:
 
+  - title: "Efficient Subgraph GNNs by Learning Effective Selection Policies"
+    authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron"
+    venue: "ICLR 2024"
+    paper_pdf: "https://arxiv.org/pdf/2310.20082.pdf"
+    # code: "https://github.com/beabevi/ESAN"
+    selected: y
+    image: /assets/publications/bags.png
+
+  - title: "A Multi-Task Perspective for Link Prediction with New Relation Types and Nodes"
+    authors: "Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro"
+    venue: "NeurIPS GLFrontiers 2023"
+    selected: n
+
+  - title: "Subgraphormer: Subgraph GNNs meet Graph Transformers"
+    authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
+    venue: "NeurIPS GLFrontiers 2023"
+    selected: n
+
+
+  - title: "Neural Algorithmic Reasoning with Causal Regularisation"
+    authors: "<b>Beatrice Bevilacqua</b>, Kyriacos Nikiforou, Borja Ibarz, Ioana Bica, Michela Paganini, Charles Blundell, Jovana Mitrovic, Petar Veličković"
+    venue: "ICML 2023"
+    paper_pdf: "https://arxiv.org/pdf/2302.10258.pdf"
+    selected: y
+    image: /assets/publications/dfs.png
+
+
+  - title: "Graph Positional Encoding via Random Feature Propagation"
+    authors: "Moshe Eliasof, Fabrizio Frasca, <b>Beatrice Bevilacqua</b>, Eran Treister, Gal Chechik, Haggai Maron"
+    venue: "ICML 2023"
+    selected: n
+
+  - title: "Causal Lifting and Link Prediction"
+    authors: "Leonardo Cotta, <b>Beatrice Bevilacqua</b>, Nesreen Ahmed, Bruno Ribeiro"
+    venue: "The Royal Society A"
+    selected: n
+
   - title: "A Generalist Neural Algorithmic Learner"
     authors: "Borja Ibarz, Vitaly Kurin, George Papamakarios, Kyriacos Nikiforou, Mehdi Bennani, Róbert Csordás, Andrew Dudzik, Matko Bošnjak, Alex Vitvitskyi, Yulia Rubanova, Andreea Deac, <b>Beatrice Bevilacqua</b>, Yaroslav Ganin, Charles Blundell, Petar Veličković"
     venue: "LoG <b>(Spotlight)</b>"
     paper_pdf: "https://arxiv.org/pdf/2209.11142.pdf"
-    selected: y
+    selected: n
     image: /assets/publications/processor.png
 
   - title: "Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries"
