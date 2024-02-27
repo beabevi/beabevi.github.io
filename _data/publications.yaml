@@ -6,7 +6,7 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2310.20082.pdf"
     # code: "https://github.com/beabevi/ESAN"
     selected: y
-    image: /assets/publications/bags.png
+    image: /assets/publications/bag.png
 
   - title: "A Multi-Task Perspective for Link Prediction with New Relation Types and Nodes"
     authors: "Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro"
