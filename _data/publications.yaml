@@ -1,7 +1,7 @@
 papers:
 
   - title: "Efficient Subgraph GNNs by Learning Effective Selection Policies"
-    authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron"
+    authors: "<b>Beatrice Bevilacqua</b>, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron"
     venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/pdf/2310.20082.pdf"
     # code: "https://github.com/beabevi/ESAN"
