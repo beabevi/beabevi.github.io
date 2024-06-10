@@ -1,10 +1,22 @@
 papers:
 
+  - title: "Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products"
+    authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
+    venue: "ICML 2024"
+    paper_pdf: "https://arxiv.org/abs/2402.08450"
+    selected: n
+
+  - title: "Long-Range Synthetic Knowledge Graph Benchmarks for Double-Equivariant Models"
+    authors: "Bruna Jasinowodolinski, Yucheng Zhang, Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro"
+    venue: "ICLR BGPT 2024"
+    paper_pdf: "https://openreview.net/pdf?id=veBNn6jJca"
+    selected: n
+
   - title: "Efficient Subgraph GNNs by Learning Effective Selection Policies"
     authors: "<b>Beatrice Bevilacqua</b>, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron"
     venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/pdf/2310.20082.pdf"
-    # code: "https://github.com/beabevi/ESAN"
+    code: "https://github.com/beabevi/policy-learn"
     selected: y
     image: /assets/publications/bag.png
 
@@ -76,6 +88,4 @@ papers:
   - title: "Simulation-Based Evolutionary Optimization of Air Traffic Management"
     authors: "Alessandro Pellegrini, Pierangelo di Sanzo, <b>Beatrice Bevilacqua</b>, Gabriella Duca, Domenico Pascarella, Roberto Palumbo, Juan Josè Ramos, Miquel Àngel Piera, Gabriella Gigante"
     venue: "IEEE Access 2020"
-    # paper_pdf: "https://arxiv.org/pdf/2103.05045.pdf"
-    # code: "https://github.com/PurdueMINDS/size-invariant-GNNs"
     selected: n
