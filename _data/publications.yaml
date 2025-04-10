@@ -1,4 +1,29 @@
 papers:
+  - title: "Holographic Node Representations: Pre-training Task-Agnostic Node Embeddings"
+    authors: "<b>Beatrice Bevilacqua</b>, Joshua Robinson, Jure Leskovec, Bruno Ribeiro"
+    venue: "ICLR 2025"
+    paper_pdf: "https://openreview.net/forum?id=tGYFikNONB"
+    selected: y
+    image: /assets/publications/holo.png
+
+  - title: "TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs"
+    authors: "Yucheng Zhang, <b>Beatrice Bevilacqua</b>, Mikhail Galkin, Bruno Ribeiro"
+    venue: "LoG 2024"
+    paper_pdf: "https://arxiv.org/abs/2502.19512"
+    selected: n
+
+  - title: "Digraf: Diffeomorphic graph-adaptive activation function"
+    authors: "Krishna Sri Ipsit Mantri, Xinzhi Wang, Carola-Bibiane Schönlieb, Bruno Ribeiro, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Moshe Eliasof<sup>‡</sup>"
+    venue: "NeurIPS 2024"
+    paper_pdf: "https://arxiv.org/abs/2407.02013"
+    selected: n
+
+  - title: "Granola: Adaptive normalization for graph neural networks"
+    authors: "Moshe Eliasof<sup>‡</sup>, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Carola-Bibiane Schönlieb, Haggai Maron"
+    venue: "NeurIPS 2024"
+    paper_pdf: "https://arxiv.org/abs/2404.13344"
+    selected: y
+    image: /assets/publications/granola.png
 
   - title: "Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products"
     authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
