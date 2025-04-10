@@ -12,18 +12,18 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2502.19512"
     selected: n
 
-  - title: "Digraf: Diffeomorphic graph-adaptive activation function"
+  - title: "Digraf: Diffeomorphic Graph-Adaptive Activation Function"
     authors: "Krishna Sri Ipsit Mantri, Xinzhi Wang, Carola-Bibiane Schönlieb, Bruno Ribeiro, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Moshe Eliasof<sup>‡</sup>"
     venue: "NeurIPS 2024"
     paper_pdf: "https://arxiv.org/abs/2407.02013"
     selected: n
 
-  - title: "Granola: Adaptive normalization for graph neural networks"
+  - title: "Granola: Adaptive Normalization for Graph Neural Networks"
     authors: "Moshe Eliasof<sup>‡</sup>, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Carola-Bibiane Schönlieb, Haggai Maron"
     venue: "NeurIPS 2024"
     paper_pdf: "https://arxiv.org/abs/2404.13344"
     selected: y
-    image: /assets/publications/granola.png
+    image: /assets/publications/granola2.png
 
   - title: "Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products"
     authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
