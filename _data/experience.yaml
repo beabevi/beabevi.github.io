@@ -1,4 +1,9 @@
 experiences:
+- place: "Arc Institute"
+  time: "May 2025 - now"
+  title: "ML Research Scientist"
+  subtitle: "Developing foundation models for perturbation response prediction"
+  category: "work"
 
 - place: "DeepMind"
   time: "Fall 2022"
@@ -13,7 +18,7 @@ experiences:
   category: "work"
 
 - place: "Purdue University"
-  time: "2020 - now"
+  time: "2020 - 2025"
   title: "Ph.D. Student"
   subtitle: "Computer Science"
   category: "school"
