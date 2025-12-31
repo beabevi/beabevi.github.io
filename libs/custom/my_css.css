@@ -58,6 +58,32 @@ p {
 .image {
   text-align: center; }
 
+/*  ================ Talks styling  ================ */
+.talks-list {
+  list-style: none;
+  padding: 0;
+}
+.talks-list li {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.talks-list li:last-child {
+  border-bottom: none;
+}
+.talk-meta {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 0.95em;
+}
+.talk-description {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.9em;
+  font-style: italic;
+}
+.talks-list a {
+  margin-left: 8px;
+}
+
 /*  ================ Project styling  ================ */
 .project-container {
   margin-bottom: 30px;
