@@ -1,8 +1,28 @@
 papers:
+  - title: "Predicting cellular responses to perturbation across diverse contexts with State"
+    authors: "Abhinav K. Adduri, Dhruv Gautam, <b>Beatrice Bevilacqua</b>, Alishba Imran, Rohan Shah, Mohsen Naghipourfar, Noam Teyssier, Rajesh Ilango, Sanjay Nagaraj, Mingze Dong, Chiara Ricci-Tam, Christopher Carpenter, Vishvak Subramanyam, Aidan Winters, Sravya Tirukkovular, Jeremy Sullivan, Brian S. Plosky, Basak Eraslan, Nicholas D. Youngblut, Jure Leskovec, Luke A. Gilbert, Silvana Konermann, Patrick D. Hsu, Alexander Dobin, Dave P. Burke, Hani Goodarzi, Yusuf H. Roohani"
+    venue: "bioRxiv 2025"
+    paper_pdf: "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2.abstract"
+    image: /assets/publications/state.png
+    selected: y
+
+  - title: "All In: Bridging Input Feature Spaces Towards Graph Foundation Models"
+    authors: "Moshe Eliasof, Krishna Sri Ipsit Mantri, <b>Beatrice Bevilacqua</b>, Carola-Bibiane Schönlieb, Bruno Ribeiro"
+    venue: "UniReps 2025"
+    paper_pdf: "https://openreview.net/forum?id=tDX4A4AE5a"
+    selected: n
+
+  - title: "Zero-shot generalization of gnns over distinct attribute domains"
+    authors: "Yangyi Shen, Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Joshua Robinson, Charilaos Kanatsoulis, Jure Leskovec, Bruno Ribeiro"
+    venue: "ICML 2025"
+    paper_pdf: "https://openreview.net/forum?id=5btqauRdz0"
+    selected: n
+
   - title: "Holographic Node Representations: Pre-training Task-Agnostic Node Embeddings"
     authors: "<b>Beatrice Bevilacqua</b>, Joshua Robinson, Jure Leskovec, Bruno Ribeiro"
     venue: "ICLR 2025"
     paper_pdf: "https://openreview.net/forum?id=tGYFikNONB"
+    code: "https://github.com/beabevi/holognn"
     selected: y
     image: /assets/publications/holo.png
 
@@ -31,12 +51,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2402.08450"
     selected: n
 
-  - title: "Long-Range Synthetic Knowledge Graph Benchmarks for Double-Equivariant Models"
-    authors: "Bruna Jasinowodolinski, Yucheng Zhang, Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro"
-    venue: "ICLR BGPT 2024"
-    paper_pdf: "https://openreview.net/pdf?id=veBNn6jJca"
-    selected: n
-
   - title: "Efficient Subgraph GNNs by Learning Effective Selection Policies"
     authors: "<b>Beatrice Bevilacqua</b>, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron"
     venue: "ICLR 2024"
@@ -50,13 +64,6 @@ papers:
     venue: "NeurIPS GLFrontiers 2023"
     paper_pdf: "https://openreview.net/pdf?id=KIISfvU806"
     selected: n
-
-  - title: "Subgraphormer: Subgraph GNNs meet Graph Transformers"
-    authors: "Guy Bar-Shalom, <b>Beatrice Bevilacqua</b>, Haggai Maron"
-    venue: "NeurIPS GLFrontiers 2023"
-    paper_pdf: "https://openreview.net/pdf?id=e8ba9Hu1mM"
-    selected: n
-
 
   - title: "Neural Algorithmic Reasoning with Causal Regularisation"
     authors: "<b>Beatrice Bevilacqua</b>, Kyriacos Nikiforou, Borja Ibarz, Ioana Bica, Michela Paganini, Charles Blundell, Jovana Mitrovic, Petar Veličković"
