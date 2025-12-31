@@ -205,7 +205,7 @@ title: Home
         <a href="{{ talk.link }}" target="_blank">[Link]</a>
       {% endif %}
       <br/>
-      <span class="talk-meta">{{ talk.host }}{% if talk.location and talk.location != "" %}, {{ talk.location }}{% endif %}, {{ talk.date }}</span>
+      <span class="talk-meta">{% if talk.location and talk.location != "" %}{{ talk.location }}, {% endif %}{{ talk.date }}</span>
       {% if talk.description %}
         <br/><span class="talk-description">{{ talk.description }}</span>
       {% endif %}
