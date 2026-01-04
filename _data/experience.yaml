@@ -19,7 +19,7 @@ experiences:
 
 - place: "Purdue University"
   time: "2020 - 2025"
-  title: "Ph.D. Student"
+  title: "Ph.D."
   subtitle: "Computer Science"
   category: "school"
 
@@ -35,10 +35,10 @@ experiences:
   subtitle: "Expressive GNNs. <a href=\"https://www.cs.purdue.edu/internships/go-boiler/participants/beatrice.html\">Interview</a>"
   category: "work"
 
-- place: "PiSchool of AI"
-  time: "Apr 2019 - Jun 2019"
-  title: "ML Scientist"
-  subtitle: "Fault prediction"
+- place: "Sapienza University"
+  time: "Sep 2017 - Dec 2019"
+  title: "MSc"
+  subtitle: "Computer Science and Engineering"
   category: "school"
 
 # - place: "MIT"
