@@ -94,7 +94,7 @@ papers:
 
   - title: "Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries"
     authors: "Fabrizio Frasca<sup>‡</sup>, <b>Beatrice Bevilacqua</b><sup>‡</sup>, Michael M. Bronstein, Haggai Maron"
-    venue: "NeurIPS 2022, <b>Oral</b> (199 / 10,411 submissions)"
+    venue: "NeurIPS 2022, <b>Oral</b> (top 1.9% out of 9,634 submissions)"
     paper_pdf: "https://arxiv.org/pdf/2206.11140.pdf"
     code: "https://github.com/beabevi/SUN"
     selected: y
@@ -102,7 +102,7 @@ papers:
 
   - title: "Equivariant Subgraph Aggregation Networks"
     authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Fabrizio Frasca<sup>‡</sup>, Derek Lim<sup>‡</sup>, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron"
-    venue: "ICLR 2022, <b>Spotlight</b> (174 / 3391 submissions)"
+    venue: "ICLR 2022, <b>Spotlight</b> (top 5.1% out of 3,391 submissions)"
     paper_pdf: "https://arxiv.org/pdf/2110.02910.pdf"
     code: "https://github.com/beabevi/ESAN"
     selected: y
@@ -111,7 +111,7 @@ papers:
 
   - title: "Size-Invariant Graph Representations for Graph Classification Extrapolations"
     authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Yangze Zhou<sup>‡</sup>, Bruno Ribeiro"
-    venue: "ICML 2021, <b>Long Talk</b> (166 / 5,513  submissions)"
+    venue: "ICML 2021, <b>Long Talk</b> (top 3% out of 5,513 submissions)"
     paper_pdf: "https://arxiv.org/pdf/2103.05045.pdf"
     code: "https://github.com/PurdueMINDS/size-invariant-GNNs"
     selected: y
