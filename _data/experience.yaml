@@ -1,20 +1,20 @@
 experiences:
 - place: "Arc Institute"
-  time: "May 2025 - now"
+  time: "May 2025 - Present"
   title: "ML Research Scientist"
-  subtitle: "Foundation models for perturbation response prediction"
+  subtitle: "End-to-end model development, post-training, and evaluation for cellular response prediction"
   category: "work"
 
 - place: "DeepMind"
-  time: "Fall 2022"
+  time: "Sep 2022 - Jan 2023"
   title: "Research Scientist, Intern"
-  subtitle: "Neural Algorithmic Reasoning"
+  subtitle: "Synthetic data and causal learning for neural algorithmic reasoning"
   category: "work"
 
 - place: "Meta AI (FAIR)"
-  time: "Summer 2022"
+  time: "May 2022 - Aug 2022"
   title: "Research Scientist, Intern"
-  subtitle: "Computer Vision/Causal Models for OOD"
+  subtitle: "Causal self-supervision for image models under domain shift"
   category: "work"
 
 - place: "Purdue University"
@@ -24,9 +24,9 @@ experiences:
   category: "school"
 
 - place: "Sapienza University"
-  time: "Jan 2020 - Aug 2020"
-  title: "Researcher"
-  subtitle: "Interpretability of GNNs"
+  time: "Jan 2020 - Jul 2020"
+  title: "Research Collaborator"
+  subtitle: "Interpretability methods for graph models"
   category: "work"
 
 - place: "Purdue University"

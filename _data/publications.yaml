@@ -1,21 +1,21 @@
 papers:
   - title: "Predicting cellular responses to perturbation across diverse contexts with State"
     authors: "Abhinav K. Adduri, Dhruv Gautam, <b>Beatrice Bevilacqua</b>, Alishba Imran, Rohan Shah, Mohsen Naghipourfar, Noam Teyssier, Rajesh Ilango, Sanjay Nagaraj, Mingze Dong, Chiara Ricci-Tam, Christopher Carpenter, Vishvak Subramanyam, Aidan Winters, Sravya Tirukkovular, Jeremy Sullivan, Brian S. Plosky, Basak Eraslan, Nicholas D. Youngblut, Jure Leskovec, Luke A. Gilbert, Silvana Konermann, Patrick D. Hsu, Alexander Dobin, Dave P. Burke, Hani Goodarzi, Yusuf H. Roohani"
-    venue: "bioRxiv 2025"
-    paper_pdf: "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2.abstract"
+    venue: "Cell 2026"
+    paper_pdf: "https://www.cell.com/cell/fulltext/S0092-8674(26)00921-9"
     image: /assets/publications/state.png
     selected: y
 
-  - title: "All In: Bridging Input Feature Spaces Towards Graph Foundation Models"
-    authors: "Moshe Eliasof, Krishna Sri Ipsit Mantri, <b>Beatrice Bevilacqua</b>, Carola-Bibiane Schönlieb, Bruno Ribeiro"
-    venue: "UniReps 2025"
-    paper_pdf: "https://openreview.net/forum?id=tDX4A4AE5a"
-    selected: n
+  - title: "Bridging Input Feature Spaces Towards Graph Foundation Models"
+    authors: "Moshe Eliasof, Krishna Sri Ipsit Mantri, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro, Carola-Bibiane Schönlieb"
+    venue: "ICLR 2026"
+    paper_pdf: "https://openreview.net/forum?id=Dt4XAIKYbf"
+    selected: y
 
-  - title: "Zero-shot generalization of gnns over distinct attribute domains"
+  - title: "Zero-Shot Generalization of GNNs over Distinct Attribute Domains"
     authors: "Yangyi Shen, Jincheng Zhou, <b>Beatrice Bevilacqua</b>, Joshua Robinson, Charilaos Kanatsoulis, Jure Leskovec, Bruno Ribeiro"
     venue: "ICML 2025"
-    paper_pdf: "https://openreview.net/forum?id=5btqauRdz0"
+    paper_pdf: "https://openreview.net/forum?id=R9iBZen9aY"
     selected: n
 
   - title: "Holographic Node Representations: Pre-training Task-Agnostic Node Embeddings"
@@ -56,7 +56,7 @@ papers:
     venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/pdf/2310.20082.pdf"
     code: "https://github.com/beabevi/policy-learn"
-    selected: y
+    selected: n
     image: /assets/publications/bag.png
 
   - title: "A Multi-Task Perspective for Link Prediction with New Relation Types and Nodes"
@@ -114,7 +114,7 @@ papers:
     venue: "ICML 2021, <b>Long Talk</b> (top 3% out of 5,513 submissions)"
     paper_pdf: "https://arxiv.org/pdf/2103.05045.pdf"
     code: "https://github.com/PurdueMINDS/size-invariant-GNNs"
-    selected: y
+    selected: n
     image: /assets/publications/causal-graph.png
 
   - title: "Simulation-Based Evolutionary Optimization of Air Traffic Management"

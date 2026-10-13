@@ -1,21 +1,69 @@
 h4 {
-  letter-spacing: .1rem; }
+  letter-spacing: .08rem;
+  font-weight: 600; }
+body {
+  color: #263238;
+  background: #fcfcfb; }
+a {
+  color: #176b78; }
 .container {
-  max-width: 800px; }
+  max-width: 900px; }
 .header {
-  margin-top: 60px;
-  margin-bottom: 60px; 
+  margin-top: 54px;
+  margin-bottom: 48px;
   text-align: left; }
+.header img {
+  border-radius: 10px; }
 .main-description h1 {
-  margin-bottom: 0px; }
+  margin-bottom: 4px;
+  font-weight: 600;
+  letter-spacing: -.08rem; }
 .main-description p {
   margin-bottom: 0px; }
+.main-description .headline {
+  color: #52636a;
+  font-size: 1.8rem;
+  margin-bottom: 3px; }
+.main-description .email a {
+  color: #52636a;
+  text-decoration: none; }
+.social-links {
+  display: flex;
+  align-items: center;
+  gap: 14px; }
 .main-description .fa {
   font-size: 22px;
   margin-top: 5px; }
+.main-description .ai {
+  font-size: 22px; }
+.header-link {
+  border: 1px solid #176b78;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: .08rem;
+  line-height: 1;
+  margin-left: 3px;
+  padding: 5px 10px;
+  text-decoration: none; }
+.bio-lead {
+  font-size: 1.85rem;
+  line-height: 1.65; }
+.research-themes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px; }
+.research-themes span {
+  background: #eef5f5;
+  border: 1px solid #d8e8e9;
+  border-radius: 999px;
+  color: #315c62;
+  font-size: 1.3rem;
+  padding: 4px 11px; }
 .with-images {
   display: flex;
-  /* margin-bottom: 20px */
+  margin-bottom: 24px;
 }
 
 p {
@@ -25,6 +73,16 @@ p {
   /*text-transform: uppercase; */}
 .paper p {
   margin-bottom: 2px }
+.paper {
+  border-bottom: 1px solid #edf0f0;
+  padding: 0 0 20px;
+  margin-bottom: 20px; }
+.paper:last-child {
+  border-bottom: 0; }
+.paper .title {
+  color: #1f3035;
+  font-size: 1.65rem;
+  line-height: 1.45; }
 .paper-buttons {
   margin-top: 5px }
 .paper .button {
@@ -41,7 +99,7 @@ p {
   font-weight: 600; }
 .docs-section {
   border-top: 1px solid #eee;
-  padding: 4rem 0;
+  padding: 4.5rem 0;
   margin-bottom: 0;}
 .footer {
   text-align: center;
@@ -152,10 +210,10 @@ p {
     font-size: 11px;
     font-weight: 600;
     letter-spacing: .2rem;
-    margin-right: 35px;
+    margin-right: 29px;
     text-decoration: none;
     line-height: 6.5rem;
-    color: #222; }
+    color: #31434a; }
   .navbar-link.active {
     color: #33C3F0; }
   .has-docked-nav .navbar {
