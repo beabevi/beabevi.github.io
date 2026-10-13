@@ -46,21 +46,6 @@ a {
   margin-left: 3px;
   padding: 5px 10px;
   text-decoration: none; }
-.bio-lead {
-  font-size: 1.85rem;
-  line-height: 1.65; }
-.research-themes {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 18px; }
-.research-themes span {
-  background: #eef5f5;
-  border: 1px solid #d8e8e9;
-  border-radius: 999px;
-  color: #315c62;
-  font-size: 1.3rem;
-  padding: 4px 11px; }
 .with-images {
   display: flex;
   margin-bottom: 24px;
