@@ -100,6 +100,7 @@ papers:
     code: "https://github.com/beabevi/SUN"
     selected: y
     image: /assets/publications/rep.png
+    thumbnail_height: 130
 
   - title: "Equivariant Subgraph Aggregation Networks"
     authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Fabrizio Frasca<sup>‡</sup>, Derek Lim<sup>‡</sup>, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron"
