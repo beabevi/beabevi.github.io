@@ -99,7 +99,7 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2206.11140.pdf"
     code: "https://github.com/beabevi/SUN"
     selected: y
-    image: https://haggaim.github.io/projects/rethinking_subgraphs/rep.png
+    image: /assets/publications/rep.png
 
   - title: "Equivariant Subgraph Aggregation Networks"
     authors: "<b>Beatrice Bevilacqua</b><sup>‡</sup>, Fabrizio Frasca<sup>‡</sup>, Derek Lim<sup>‡</sup>, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron"
