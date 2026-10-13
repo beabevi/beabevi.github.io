@@ -54,7 +54,7 @@ title: Home
         <div class="paper with-images">
           {% if paper.image %}
             <div class="paper-image four columns">
-              <img src="{{ paper.image }}" alt="Thumbnail for {{ paper.title }}">
+              <img src="{{ paper.image }}" alt="Thumbnail for {{ paper.title }}" style="display: block; width: auto; height: auto; max-width: 100%; max-height: 90px;">
             </div>
           {% endif %}
           <div class="{% if paper.image %}eight{% else %}twelve{% endif %} columns">
