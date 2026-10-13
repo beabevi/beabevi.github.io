@@ -10,6 +10,7 @@ papers:
     authors: "Moshe Eliasof, Krishna Sri Ipsit Mantri, <b>Beatrice Bevilacqua</b>, Bruno Ribeiro, Carola-Bibiane Schönlieb"
     venue: "ICLR 2026"
     paper_pdf: "https://openreview.net/forum?id=Dt4XAIKYbf"
+    image: /assets/publications/all-in.png
     selected: y
 
   - title: "Zero-Shot Generalization of GNNs over Distinct Attribute Domains"
