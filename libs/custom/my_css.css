@@ -162,9 +162,13 @@ p {
     display: block;
     padding-right: 20px;
     width: 25%;
-    /* height: 200px; */
-    /* background: red; */
-    /* float: left; */
+  }
+  .paper-image img {
+    display: block;
+    height: auto;
+    max-height: 90px;
+    max-width: 100%;
+    width: auto;
   }
 
   /* Navbar */
